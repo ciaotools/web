@@ -4638,7 +4638,15 @@
     "imageUrl": "/images/partners/SuperOETH.png",
     "category": "defi",
     "subcategory": "yield vault"
-   },
+  },
+  {
+  "name": "CiaoTool",
+  "description": "CiaoTool is a zero-code Web3 tool suite for Base, offering bulk transfers (one-to-many, many-to-one, many-to-many), wallet management, token tools, and cold wallet reallocation features.",
+  "url": "https://base.ciaotool.io",
+  "imageUrl": "/images/partners/CiaoTool.png",
+  "category": "infra",
+  "subcategory": "developer tool"
+  },  
   {
     "name": "Levva",
     "url": "https://levva.fi/",
